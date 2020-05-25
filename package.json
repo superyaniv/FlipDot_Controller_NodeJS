@@ -1,0 +1,23 @@
+{
+  "name": "flipdot_controller_nodejs",
+  "version": "1.0.0",
+  "description": "Nodejs implementation of the flipdot controller.",
+  "main": "controller.js",
+  "dependencies": {
+    "onoff": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superyaniv/FlipDot_Controller_NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superyaniv/FlipDot_Controller_NodeJS/issues"
+  },
+  "homepage": "https://github.com/superyaniv/FlipDot_Controller_NodeJS#readme"
+}
